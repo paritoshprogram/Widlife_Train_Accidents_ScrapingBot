@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>News_Scraping</id>
+    <version>1.0.5</version>
+    <title>News_Scraping</title>
+    <authors>Admin</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Scraping wildlife</description>
+    <tags>VisualBasic VB UiPathStudioProcess</tags>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="UiPath.Excel.Activities" version="[2.20.1]" />
+        <dependency id="UiPath.System.Runtime.Windows" version="[23.4.2]" />
+        <dependency id="UiPath.UIAutomation.Activities.Runtime" version="[23.4.4]" />
+        <dependency id="UiPath.WebAPI.Runtime" version="[1.16.2]" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

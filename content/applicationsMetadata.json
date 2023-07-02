@@ -1,0 +1,64 @@
+﻿{
+  "Version": "1.0",
+  "Metadata": [
+    {
+      "ApplicationType": "Chrome",
+      "ExecutablePath": {
+        "Value": "chrome.exe",
+        "IsExpression": false
+      },
+      "Url": {
+        "Value": "https://www.google.com",
+        "IsExpression": false
+      },
+      "Arguments": null,
+      "Version": null
+    },
+    {
+      "ApplicationType": "Chrome",
+      "ExecutablePath": {
+        "Value": "chrome.exe",
+        "IsExpression": false
+      },
+      "Url": {
+        "Value": "chrome://newtab",
+        "IsExpression": false
+      },
+      "Arguments": null,
+      "Version": null
+    },
+    {
+      "ApplicationType": "API",
+      "ExecutablePath": null,
+      "Url": {
+        "Value": "https://textanalysis-text-summarization.p.rapidapi.com",
+        "IsExpression": false
+      },
+      "Arguments": null,
+      "Version": null
+    },
+    {
+      "ApplicationType": "API",
+      "ExecutablePath": null,
+      "Url": {
+        "Value": "https://api.openai.com",
+        "IsExpression": false
+      },
+      "Arguments": null,
+      "Version": null
+    },
+    {
+      "ApplicationType": "WindowsApplication",
+      "ExecutablePath": {
+        "Value": "excel.exe",
+        "IsExpression": false
+      },
+      "Url": null,
+      "Arguments": {
+        "Value": "google_search.xlsx",
+        "IsExpression": false
+      },
+      "Version": null
+    }
+  ]
+}
